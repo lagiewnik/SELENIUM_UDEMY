@@ -1,0 +1,7 @@
+If you have completed till lecture 12 by brushing up Java basic lectures,- You are good to start with Selenium.
+
+Hungry on Learning Java in Depth??
+
+If so then Jump to Section 25. There are lots of core java concepts with Practical examples and Interview questions are discussed.
+
+But my  personal advice is to Continue with the lectures in order to complete Selenium first, and then learn java on your own pace :)

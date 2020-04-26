@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="D:/KURSY/SELENIUM_UDEMY/MavenJava/src/test/java/qaclickacademy/AppTest.java">
+        <classes>
+            <class name="qaclickacademy.AppTest">
+                <methods>
+                    <include name="AppLaunchTest"/>
+                    <include name="AppMemoryTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="D:/KURSY/SELENIUM_UDEMY/MavenJava/src/test/java/qaclickacademy/RESTAPITest.java">
+        <classes>
+            <class name="qaclickacademy.RESTAPITest">
+                <methods>
+                    <include name="postJira"/>
+                    <include name="deleteTwitter"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="D:/KURSY/SELENIUM_UDEMY/MavenJava/src/test/java/qaclickacademy/SeleniumTest.java">
+        <classes>
+            <class name="qaclickacademy.SeleniumTest">
+                <methods>
+                    <include name="BrowserAutomation"/>
+                    <include name="elementsUI"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,9 @@
+Locator Techniques :
+
+Xpath
+ID
+ClassName
+Name
+linkText
+CssSelector
+Partial link text

@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e257d3d5-c727-4309-8ec2-268a5744c782" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/SELENIUM_UDEMY.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CucumberDemo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatabaseDemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatabaseDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatabaseDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatabaseDemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatabaseDemo/DatabaseDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatabaseDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatabaseDemo/src/main/java/JdbcConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatabaseDemo/target/classes/JdbcConnect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/logs/prints-2017-06-14.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/logs/prints-2017-06-15.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/logs/prints-2017-06-17.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/logs/prints-2017-06-18.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/logs/prints-2017-06-21.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/logs/prints.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/src/main/java/Academy/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/src/main/java/pageObjects/LandingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/src/main/java/pageObjects/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/src/main/java/resources/ExtentReporterNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/src/main/java/resources/base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/src/main/java/resources/data.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/src/main/java/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/src/test/java/Academy/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/src/test/java/Academy/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/src/test/java/Academy/listeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/src/test/java/Academy/validateNavigationBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/src/test/java/Academy/validateTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/classes/Academy/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/classes/ExtentReporterNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/classes/META-INF/maven/Academy/E2EProject/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/classes/META-INF/maven/Academy/E2EProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/classes/base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/classes/data.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/classes/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/classes/pageObjects/LandingPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/classes/pageObjects/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/classes/resources/ExtentReporterNG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/classes/resources/base.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/ExtentReportsTestNG.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/Suite/App Testing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/Suite/App Testing.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/Suite/Validating User login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/Suite/Validating User login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/Suite/Validating navigation Bar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/Suite/Validating navigation Bar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/Suite/Validating title in the Page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/Suite/Validating title in the Page.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/Suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/junitreports/TEST-Academy.HomePage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/junitreports/TEST-Academy.validateNavigationBar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/junitreports/TEST-Academy.validateTitle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/old/Suite/App Testing.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/old/Suite/Validating User login.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/old/Suite/Validating navigation Bar.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/old/Suite/Validating title in the Page.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/old/Suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/old/Suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/old/Suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/old/Suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/old/Suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/old/Suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/old/Suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/old/Suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/old/Suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/old/Suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/surefire-reports/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/test-classes/Academy/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/test-classes/Academy/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/test-classes/Academy/listeners.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/test-classes/Academy/validateNavigationBar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/target/test-classes/Academy/validateTitle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/ExtentReportsTestNG.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/Suite/App Testing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/Suite/App Testing.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/Suite/Validating User login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/Suite/Validating User login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/Suite/Validating navigation Bar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/Suite/Validating navigation Bar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/Suite/Validating title in the Page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/Suite/Validating title in the Page.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/junitreports/TEST-Academy.HomePage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/junitreports/TEST-Academy.validateNavigationBar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/junitreports/TEST-Academy.validateTitle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/old/Suite/App Testing.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/old/Suite/Validating User login.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/old/Suite/Validating navigation Bar.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/old/Suite/Validating title in the Page.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/old/Suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/old/Suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/old/Suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/old/Suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/old/Suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/old/Suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/old/Suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/old/Suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/old/Suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/old/Suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/test-output/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProject/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/logs/prints-2017-06-14.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/logs/prints-2017-06-15.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/logs/prints-2017-06-17.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/logs/prints-2017-06-18.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/logs/prints-2017-06-21.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/logs/prints-2017-10-05.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/logs/prints-2017-10-16.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/logs/prints.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/src/main/java/Academy/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/src/main/java/pageObjects/LandingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/src/main/java/pageObjects/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/src/main/java/pageObjects/portalHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/src/main/java/resources/ExtentReporterNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/src/main/java/resources/base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/src/main/java/resources/data.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/src/main/java/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/src/test/java/Academy/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/src/test/java/Academy/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/src/test/java/Academy/listeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/src/test/java/Academy/validateNavigationBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/src/test/java/Academy/validateTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/src/test/java/cucumberOptions/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/src/test/java/features/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/src/test/java/stepDefinations/stepDefination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/classes/Academy/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/classes/ExtentReporterNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/classes/META-INF/maven/Academy/E2EProject/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/classes/META-INF/maven/Academy/E2EProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/classes/base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/classes/data.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/classes/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/classes/pageObjects/LandingPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/classes/pageObjects/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/classes/pageObjects/portalHomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/classes/resources/ExtentReporterNG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/classes/resources/base.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/2017-10-05T08-06-53_546-jvmRun1.dump" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/2017-10-05T08-07-27_801-jvmRun1.dump" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/2017-10-05T08-07-47_226-jvmRun1.dump" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/2018-09-09T14-32-36_246-jvmRun1.dump" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/ExtentReportsTestNG.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/Suite/App Testing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/Suite/App Testing.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/Suite/Validating User login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/Suite/Validating User login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/Suite/Validating navigation Bar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/Suite/Validating navigation Bar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/Suite/Validating title in the Page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/Suite/Validating title in the Page.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/junitreports/TEST-Academy.HomePage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/junitreports/TEST-Academy.validateNavigationBar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/junitreports/TEST-Academy.validateTitle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/old/Suite/App Testing.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/old/Suite/Validating User login.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/old/Suite/Validating navigation Bar.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/old/Suite/Validating title in the Page.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/old/Suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/old/Suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/old/Suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/old/Suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/old/Suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/old/Suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/old/Suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/old/Suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/old/Suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/old/Suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/surefire-reports/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/test-classes/Academy/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/test-classes/Academy/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/test-classes/Academy/listeners.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/test-classes/Academy/validateNavigationBar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/test-classes/Academy/validateTitle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/test-classes/cucumberOptions/TestRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/test-classes/features/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/target/test-classes/stepDefinations/stepDefination.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/ExtentReportsTestNG.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/Suite/App Testing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/Suite/App Testing.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/Suite/Validating User login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/Suite/Validating User login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/Suite/Validating navigation Bar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/Suite/Validating navigation Bar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/Suite/Validating title in the Page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/Suite/Validating title in the Page.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/Suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/junitreports/TEST-Academy.HomePage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/junitreports/TEST-Academy.validateNavigationBar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/junitreports/TEST-Academy.validateTitle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/junitreports/TEST-cucumberOptions.TestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/old/Suite/App Testing.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/old/Suite/Validating User login.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/old/Suite/Validating navigation Bar.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/old/Suite/Validating title in the Page.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/old/Suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/old/Suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/old/Suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/old/Suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/old/Suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/old/Suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/old/Suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/old/Suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/old/Suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/old/Suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/test-output/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E2EProjectCucumber/testngCucumber.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelDriven/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelDriven/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelDriven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelDriven/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelDriven/ExcelDriven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelDriven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelDriven/src/test/java/DataDriven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelDriven/src/test/java/TestSAmple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelDriven/src/test/resources/data.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelDriven/target/test-classes/.~lock.data.xlsx#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelDriven/target/test-classes/DataDriven.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelDriven/target/test-classes/TestSAmple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelDriven/target/test-classes/data.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrameWork" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GitDemo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GitX/GitDemo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__com_thoughtworks_qdox_qdox_2_0_M8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_apache_ant_ant_1_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_apache_maven_maven_aether_provider_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_apache_maven_maven_artifact_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_apache_maven_maven_core_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_apache_maven_maven_model_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_apache_maven_maven_model_builder_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_apache_maven_maven_settings_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_apache_maven_maven_settings_builder_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_apache_maven_plugins_maven_compiler_plugin_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_apache_maven_shared_maven_shared_incremental_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_apache_maven_shared_maven_shared_utils_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_codehaus_plexus_plexus_classworlds_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_api_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_javac_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_manager_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_codehaus_plexus_plexus_component_annotations_1_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_codehaus_plexus_plexus_java_0_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_ow2_asm_asm_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_sonatype_aether_aether_api_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_sonatype_aether_aether_impl_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_sonatype_aether_aether_spi_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_sonatype_aether_aether_util_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_sonatype_plexus_plexus_cipher_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_sonatype_plexus_plexus_sec_dispatcher_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_sonatype_sisu_sisu_guice_noaop_2_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_bean_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_plexus_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/libraries/Maven__org_testng_testng_6_9_13_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Introduction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/out/production/Introduction/META-INF/Introduction.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/out/screenshots/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/resources/ODSS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/resources/fileUpload.au3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/resources/fileUpload.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B01_start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B02_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B03_StringHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B04_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B05_Interihance/GrandSon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B05_Interihance/Grandfather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B05_Interihance/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B06_Interface/Bankingclient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B06_Interface/Developing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B06_Interface/DomainClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B07_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B08_Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B09_Callendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B10_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B11_ChildDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B11_ParentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B12_This.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B13_final.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B14_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B15_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B16_HashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B17_HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B18_HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/Jbasic/B19_CollectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/autoIT/A01_windowsPopUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/autoIT/A02_uploadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N02Facebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N03SalesForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N04_fbXpathCSS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N05_XpathCSS_regexp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N06_siblings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N07_DropDownWithSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N08_DropDownDynamicNonSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N09_Autosuggest_Lesson52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N10_checkboxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N11_checkboxes_EXERCISE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N12_CalendarUICurrentDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N13_VerifyDisabledEnabled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N14_e2e.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N15_Allerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N16_EXERCICE_UI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N17_AddingItemsToCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N18_AddingItemsToCart_ImplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N19_AddingItemsToCart_ExplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N20_EXERCISE_ExplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N21_FluentWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N22_ActionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N23_MultipleWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N24_EXERCISE_MultipleWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N25_FramesAnDragDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N26_EXERCISE_Frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N27_LinkCountOnPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N28_EXERCISE_Assigment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N29_CalendarHandlings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N30_TableGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N31_EXERCISE_TableHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N32_AutoSuggestDropDownHiddenElementJavaExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N33_EXERCISE_AutoSuggestDropDownHiddenElementJavaExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N34_SSLCertification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N35_Maximize_CookieClear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N36_Screenshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/basics/N37_TableSortingVerify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/seleniumgrid/RemoteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/testNG/TNG01_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/testNG/TNG02_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/testNG/TNG03_Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/testNG/TNG04_HomeLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/testNG/TNG05_LoginWithDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/testNG/TNG06_Listeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/testNG/TNG07_Properties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/testNG/datadriven.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/testNG/suites/01testngExclude.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/testNG/suites/02testngInclude.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/testNG/suites/03testngRegex.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/testNG/suites/04testngPackages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/testNG/suites/05testngGroup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/testNG/suites/06testngParametrization.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/testNG/suites/07testngListeners.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/src/main/java/testNG/suites/08testngParallelTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/Introduction-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B01_start.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B02_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B03_StringHandling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B04_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B05_Interihance/GrandSon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B05_Interihance/Grandfather.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B05_Interihance/Son.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B06_Interface/Bankingclient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B06_Interface/Developing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B06_Interface/DomainClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B07_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B08_Date.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B09_Callendar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B10_Constructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B11_ChildDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B11_ParentDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B12_This.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B13_final.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B14_Exception.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B15_ArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B16_HashSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B17_HashMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B18_HashTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/Jbasic/B19_CollectionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/META-INF/Introduction.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/autoIT/A01_windowsPopUp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/autoIT/A02_uploadFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/Demo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/Demo$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N02Facebook$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N02Facebook$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N02Facebook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N03SalesForce$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N03SalesForce$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N03SalesForce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N04_fbXpathCSS$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N04_fbXpathCSS$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N04_fbXpathCSS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N05_XpathCSS_regexp$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N05_XpathCSS_regexp$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N05_XpathCSS_regexp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N06_siblings$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N06_siblings$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N06_siblings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N07_DropDownWithSelect$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N07_DropDownWithSelect$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N07_DropDownWithSelect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N08_DropDownDynamicNonSelect$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N08_DropDownDynamicNonSelect$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N08_DropDownDynamicNonSelect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N09_Autosuggest_Lesson52$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N09_Autosuggest_Lesson52$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N09_Autosuggest_Lesson52.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N10_checkboxes$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N10_checkboxes$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N10_checkboxes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N11_checkboxes_EXERCISE$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N11_checkboxes_EXERCISE$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N11_checkboxes_EXERCISE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N12_CalendarUICurrentDate$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N12_CalendarUICurrentDate$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N12_CalendarUICurrentDate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N13_VerifyDisabledEnabled$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N13_VerifyDisabledEnabled$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N13_VerifyDisabledEnabled.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N14_e2e$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N14_e2e$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N14_e2e.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N15_Allerts$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N15_Allerts$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N15_Allerts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N16_EXERCICE_UI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N16_EXERCICE_UI$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N16_EXERCICE_UI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N17_AddingItemsToCart$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N17_AddingItemsToCart$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N17_AddingItemsToCart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N18_AddingItemsToCart_ImplicitWait$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N18_AddingItemsToCart_ImplicitWait$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N18_AddingItemsToCart_ImplicitWait.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N19_AddingItemsToCart_ExplicitWait$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N19_AddingItemsToCart_ExplicitWait$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N19_AddingItemsToCart_ExplicitWait.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N20_EXERCISE_ExplicitWait$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N20_EXERCISE_ExplicitWait$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N20_EXERCISE_ExplicitWait.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N21_FluentWait$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N21_FluentWait$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N21_FluentWait$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N21_FluentWait.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N22_ActionsDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N22_ActionsDemo$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N22_ActionsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N23_MultipleWindows$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N23_MultipleWindows$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N23_MultipleWindows.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N24_EXERCISE_MultipleWindows$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N24_EXERCISE_MultipleWindows$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N24_EXERCISE_MultipleWindows.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N25_FramesAnDragDrop$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N25_FramesAnDragDrop$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N25_FramesAnDragDrop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N26_EXERCISE_Frames$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N26_EXERCISE_Frames$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N26_EXERCISE_Frames.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N27_LinkCountOnPage$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N27_LinkCountOnPage$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N27_LinkCountOnPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N28_EXERCISE_Assigment$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N28_EXERCISE_Assigment$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N28_EXERCISE_Assigment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N29_CalendarHandlings$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N29_CalendarHandlings$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N29_CalendarHandlings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N30_TableGrid$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N30_TableGrid$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N30_TableGrid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N31_EXERCISE_TableHandling$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N31_EXERCISE_TableHandling$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N31_EXERCISE_TableHandling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N32_AutoSuggestDropDownHiddenElementJavaExecutor$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N32_AutoSuggestDropDownHiddenElementJavaExecutor$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N32_AutoSuggestDropDownHiddenElementJavaExecutor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N33_EXERCISE_AutoSuggestDropDownHiddenElementJavaExecutor$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N33_EXERCISE_AutoSuggestDropDownHiddenElementJavaExecutor$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N33_EXERCISE_AutoSuggestDropDownHiddenElementJavaExecutor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N34_SSLCertification$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N34_SSLCertification$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N34_SSLCertification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N35_Maximize_CookieClear$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N35_Maximize_CookieClear$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N35_Maximize_CookieClear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N36_Screenshot$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N36_Screenshot$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N36_Screenshot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N37_TableSortingVerify$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N37_TableSortingVerify$Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/basics/N37_TableSortingVerify.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/seleniumgrid/RemoteTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/testNG/TNG01_Intro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/testNG/TNG02_Intro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/testNG/TNG03_Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/testNG/TNG04_HomeLogin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/testNG/TNG05_LoginWithDataProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/testNG/TNG06_Listeners.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/classes/testNG/TNG07_Properties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/Default Suite/Introduction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/Default Suite/Introduction.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/Default Suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/Loan Dep/Leasing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/Loan Dep/Leasing.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/Loan Dep/Loan .html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/Loan Dep/Loan .xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/junitreports/TEST-testNG.TNG07_Properties.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Default Suite/Introduction.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Default Suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Default Suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Default Suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Default Suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Default Suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Default Suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Default Suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Default Suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Default Suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Loan Dep/Leasing.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Loan Dep/Loan .properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Loan Dep/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Loan Dep/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Loan Dep/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Loan Dep/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Loan Dep/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Loan Dep/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Loan Dep/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Loan Dep/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Loan Dep/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/Loan Dep/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/test-output/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log4JProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log4JProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log4JProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log4JProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log4JProject/Log4JProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log4JProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log4JProject/src/logs/prints-2019-10-26.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log4JProject/src/logs/prints.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log4JProject/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log4JProject/src/test/java/alpha/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log4JProject/src/test/java/beta/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log4JProject/target/classes/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log4JProject/target/test-classes/alpha/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log4JProject/target/test-classes/beta/Demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/MavenJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/src/test/java/qaclickacademy/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/src/test/java/qaclickacademy/RESTAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/src/test/java/qaclickacademy/SeleniumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/target/surefire-reports/2019-10-25T14-50-59_871.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/target/surefire-reports/2019-10-25T15-06-53_054.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/target/surefire-reports/2019-10-25T15-07-38_025.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/target/surefire-reports/2019-10-25T15-11-03_865.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/target/surefire-reports/2019-10-25T15-17-32_442.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/target/surefire-reports/2019-10-25T15-18-09_331.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/target/surefire-reports/2019-10-26T11-26-04_472.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/target/surefire-reports/2019-10-26T11-26-22_539.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/target/surefire-reports/2019-10-26T11-40-53_152.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/target/surefire-reports/2019-10-26T11-47-35_893.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/target/surefire-reports/2019-10-26T11-48-20_670.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/target/test-classes/qaclickacademy/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/target/test-classes/qaclickacademy/RESTAPITest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/target/test-classes/qaclickacademy/SeleniumTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MavenJava/testng2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObject/PageObject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObject/src/test/java/objectrepository/RediffHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObject/src/test/java/objectrepository/RediffLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObject/src/test/java/objectrepository/RediffLoginPagePF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObject/src/test/java/testcases/LoginApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObject/src/test/java/testcases/LoginApplicationPF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObject/target/test-classes/objectrepository/RediffHomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObject/target/test-classes/objectrepository/RediffLoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObject/target/test-classes/objectrepository/RediffLoginPagePF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObject/target/test-classes/testcases/LoginApplication$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObject/target/test-classes/testcases/LoginApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObject/target/test-classes/testcases/LoginApplicationPF$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObject/target/test-classes/testcases/LoginApplicationPF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Chapter-1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Info (1).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Info (2).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Instructions.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Section30 - OOPS/OOPS_Interview.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/chapter-1-1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section11-AjaxCalls_ChildWindows_Iframe/doc-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section11-AjaxCalls_ChildWindows_Iframe/doc-2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section11-AjaxCalls_ChildWindows_Iframe/doc-3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section11-AjaxCalls_ChildWindows_Iframe/doc-5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section15_SeleniumGrid/Code-and-Commands.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section15_SeleniumGrid/Selenium-Grid.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/Paramete.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/bin/datddriven/Annotations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/bin/packTwo/Annot2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/bin/packTwo/Annotations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/bin/packTwo/DependenyAnnot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/bin/testngFiles/Annot2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/bin/testngFiles/Annotations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/bin/testngFiles/DependenyAnnot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/bin/testngFiles2/Annot2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/bin/testngFiles2/Annotations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/bin/testngFiles2/DependenyAnnot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/groups.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/src/datddriven/Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/src/packTwo/Annot2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/src/packTwo/Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/src/packTwo/DependenyAnnot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/src/testngFiles/Annot2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/src/testngFiles/Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/src/testngFiles/DependenyAnnot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/src/testngFiles2/Annot2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/src/testngFiles2/Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/src/testngFiles2/DependenyAnnot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/Automatio Test/Smoke Testcases.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/Automatio Test/Smoke Testcases.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/Automation Test/Smoke Testcases.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/Automation Test/Smoke Testcases.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/Default suite/Default test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/Default suite/Default test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/FRAMEWORK/Build Balidation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/FRAMEWORK/Build Balidation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/junitreports/TEST-datddriven.Annotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/junitreports/TEST-packTwo.Annot2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/junitreports/TEST-packTwo.Annotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/junitreports/TEST-packTwo.DependenyAnnot.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/junitreports/TEST-testngFiles.Annot2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/junitreports/TEST-testngFiles.Annotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/junitreports/TEST-testngFiles.DependenyAnnot.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Automatio Test/Smoke Testcases.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Automatio Test/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Automatio Test/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Automatio Test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Automatio Test/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Automatio Test/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Automatio Test/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Automatio Test/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Automatio Test/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Automatio Test/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Automatio Test/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Automation Test/Smoke Testcases.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Automation Test/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Automation Test/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Automation Test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Automation Test/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Automation Test/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Automation Test/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Automation Test/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Automation Test/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Automation Test/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Automation Test/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Default suite/Default test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Default suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Default suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Default suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Default suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Default suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Default suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Default suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Default suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Default suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/Default suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/FRAMEWORK/Build Balidation.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/FRAMEWORK/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/FRAMEWORK/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/FRAMEWORK/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/FRAMEWORK/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/FRAMEWORK/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/FRAMEWORK/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/FRAMEWORK/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/FRAMEWORK/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/FRAMEWORK/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/FRAMEWORK/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/test-output/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/Framework/Framework/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/bin/test/Listeners.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/bin/test/day1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/bin/test/day2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/bin/test/day3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/bin/test/day4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/src/test/Listeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/src/test/day1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/src/test/day2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/src/test/day3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/src/test/day4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/Default suite/Default test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/Default suite/Default test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/Default suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/Loan Department/Car Loan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/Loan Department/Car Loan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/Loan Department/Personal loan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/Loan Department/Personal loan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/Loan Department/Regression.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/Loan Department/Regression.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/Loan Department/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/junitreports/TEST-test.day1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/junitreports/TEST-test.day2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/junitreports/TEST-test.day3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/junitreports/TEST-test.day4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Default suite/Default test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Default suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Default suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Default suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Default suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Default suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Default suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Default suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Default suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Default suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Default suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Loan Department/Car Loan.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Loan Department/Personal loan.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Loan Department/Regression.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Loan Department/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Loan Department/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Loan Department/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Loan Department/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Loan Department/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Loan Department/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Loan Department/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Loan Department/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Loan Department/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/Loan Department/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/test-output/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/testng2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/TestNGTutorial-1/TestNGTutorial/testng3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/code1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section18 -TestNG/xmtestNG-configuration.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section20 - maven/Maven.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section3/Info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section3/Info1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section3/Java-remaining-videos-location.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section31 - cucumber/cucumberTutorial.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section31 - cucumber/doc-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section31 - cucumber/doc-3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section33-cloud testing/Info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section33-cloud testing/doc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section33-cloud testing/saucelab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section34-autoIT/reference.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section5/DAY2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section5/information-on-gecko.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section6 - Locator TEchniquess/Info1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section6 - Locator TEchniquess/LT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section6 - Locator TEchniquess/Misconceptions.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section6 - Locator TEchniquess/code (1).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section6 - Locator TEchniquess/code.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section6 - Locator TEchniquess/custxpath.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/section6 - Locator TEchniquess/toolsidentify.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CucumberDemo" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="54" />
+    <option name="y" value="21" />
+    <option name="width" value="905" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="CatdeaLogs" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SELENIUM_UDEMY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SELENIUM_UDEMY" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587912680912" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e257d3d5-c727-4309-8ec2-268a5744c782" name="Default Changelist" comment="" />
+      <created>1587911999816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587911999816</updated>
+    </task>
+    <task id="LOCAL-00001" summary="complete">
+      <created>1587912131071</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587912131071</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="54" y="21" width="905" height="1087" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24970414" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Log4jMonitor" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Codota" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_211</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
